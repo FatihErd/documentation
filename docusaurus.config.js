@@ -7,13 +7,14 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Fatih Dökümantasyon",
   tagline: "Dökümantasyon",
-  url: "https://FatihErd.github.io",
+  url: "https://github.com",
   baseUrl: "/documentation/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/developer.png",
   organizationName: "FatihErd", // Usually your GitHub org/user name.
   projectName: "documentation", // Usually your repo name.
+  deploymentBranch: "gh-pages",
 
   presets: [
     [
