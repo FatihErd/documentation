@@ -10,9 +10,11 @@ slug: /
 <br/>
 <br/>
 
+<div style={{textAlign: 'center'}}>
 
-![img](../static/img/developer2.png)
+![image](../static/img/developer2.png)
 
+</div>
 
 <br/>
 <br/>
